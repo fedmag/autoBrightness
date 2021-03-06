@@ -18,7 +18,7 @@ do
 		xrandr --output HDMI-0 --brightness 1
 		echo "Maximum brightness"
 	fi
-	sleep 60
+	sleep 3600
 done
 
 
