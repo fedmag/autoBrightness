@@ -1,0 +1,1 @@
+* * * * * bash -l -c '/home/fedmag/Projects/autoBrightness/autoBrightness.sh' >> ~/Projects/autoBrightness/log.txt 2>&1
